@@ -1,0 +1,21 @@
+{
+  "name": "AgentsToolbox",
+  "version": "0.0.1",
+  "description": "Does what Agent wants it to",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "better-sqlite3": "^5.4.3",
+    "bufferutil": "^4.0.1",
+    "discord.js": "^11.5.1"
+  },
+  "engines": {
+    "node": "8.1.0"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node"
+  ]
+}
