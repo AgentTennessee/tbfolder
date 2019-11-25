@@ -9,6 +9,7 @@
   "dependencies": {
     "better-sqlite3": "^5.4.3",
     "bufferutil": "^4.0.1",
+    "cron": "^1.7.2",
     "discord.js": "^11.5.1"
   },
   "engines": {
